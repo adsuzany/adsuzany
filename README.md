@@ -29,7 +29,5 @@
   ##
   
 <div align="center"><br>
-  <img align="center" alt="Chihiro" src="https://media.giphy.com/media/F99PZtJC8Hxm0/giphy.gif">
-  <br><br>
   <a href="https://www.linkedin.com/in/ada-ara%C3%BAjo-b0122a160" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
