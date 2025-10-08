@@ -1,7 +1,7 @@
 ### Hello, I'm Ada Suzany ✨
-- 🔭 I’m currently working as full stack developer
-- 🌱 Studing React and NestJs
-- ⚡ Also worked with Software Testing for some time
+- 🔭 I’m currently working as backend developer
+- 🌱 Studing Java and Node
+- ⚡ Also worked as full stack developer for some time, using Node and React
 - 😄 Pronouns: She/Her
 
   ## 
